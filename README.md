@@ -10,8 +10,8 @@ This is a solution to the Interactive card details form challenge on Frontend Me
 
 ## Links
 
-- Solution URL:
-- Live Site URL:
+- Solution URL: [https://www.frontendmentor.io/solutions/interactive-card-details-form-using-react-js-Kh5IemD1Cc](https://www.frontendmentor.io/solutions/interactive-card-details-form-using-react-js-Kh5IemD1Cc)
+- Live Site URL: [https://interactive-card-details-form-swart.vercel.app/](https://interactive-card-details-form-swart.vercel.app/)
 
 ### Built with
 
